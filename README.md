@@ -8,6 +8,6 @@ To run the face mask detector application -->
 
 Open Terminal and type:
 
->> cd directory/folder_path
+-- cd directory/folder_path
 
->> python run.py
+-- python run.py
